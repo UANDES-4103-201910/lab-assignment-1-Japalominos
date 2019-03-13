@@ -1,2 +1,6 @@
 # lab-assignment-1
 Base project for lab assignment 1
+3.- It's a HTML estructure, with a "header" and a "body", the head contain two metalanguage, three links, and the title wich is Hacker News. The body contain the center and the script, the center had a table tag (the tag who manage the context of the aplicattion web), a tbody tag (contains all the estructure of the of the aplicattion web), tr (used for define a section of the aplicattion web), td (used for define a sub-section of tr), a ( used for reference a http), span (used for reference).  
+4.- First is index (represent the model of the web application), next is the hn.js?FUQ3zWqNVwHVyEpEQRQr (represent the controller or the interaction with the user of the web application), next is  the news.css?FUQ3zWqNVwHVyEpEQRQr (represent the view or style of the web application), and grayarrow.gif, s.gif,y18.gif, they are images that help the web application to be more prettier and give more profesionalism.
+5.- Its a object of JavaScript, provide an easy way to get information from a URL without having to reload the entire page. And in this case XHR its used to extract the title of the news.
+6.- The entity who certify the web application its COMODO RSA Domain Validation Secure Server CA. and the expiration date of the certificate its 21-08-2019.
